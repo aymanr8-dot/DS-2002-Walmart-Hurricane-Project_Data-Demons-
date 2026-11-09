@@ -123,4 +123,4 @@ and it appeared in all 12 stores. Inventory is inconclusive. Recommendation: shi
 - [x] Working weather API call with source documentation (section 3)
 - [x] Reflection on all five prompts, with each team member contributing (section 11)
 - [x] README and team project repo
-- [ ] Six-minute presentation with 2 minutes of Q&A
+- [x] Six-minute presentation with 2 minutes of Q&A
